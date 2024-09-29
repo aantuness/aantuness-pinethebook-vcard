@@ -1,2 +1,1 @@
-# aantuness-pinethebook-vcard
-Card of current user
+VCARD Hosted webapp
